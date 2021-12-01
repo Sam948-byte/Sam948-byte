@@ -2,7 +2,7 @@
 
 
 
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=HENRYMARTIN5.HENRYMARIN5)
+### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=Sam948-byte.Sam948-byte)
 
 I'm a young computer enthusiast interested in the full stack.
 
