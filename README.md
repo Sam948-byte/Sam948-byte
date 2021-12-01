@@ -7,7 +7,7 @@
 I'm a young computer enthusiast interested in the full stack.
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Sam948-byte)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Sam948-byte&theme=juicyfresh&no-bg=true&no-frame=true&column=3&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 **About Me:**
 
