@@ -1,14 +1,15 @@
 ### Hi there, I'm Sam <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 
-
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=Sam948-byte.Sam948-byte)
+
 
 I'm a young computer enthusiast interested in the full stack.
 
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Sam948-byte)](https://github.com/ryo-ma/github-profile-trophy)
 
-**Talking about Personal Stuffs:**
+**About Me:**
 
 - 👨🏻‍💻 I’m currently working on writing code for my robotics team;
 - 🚀 I’m currently learning how to work with tensorflow;
