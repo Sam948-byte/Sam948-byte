@@ -10,12 +10,10 @@ I'm a young computer enthusiast interested in the full stack.
 
 **Talking about Personal Stuffs:**
 
-- 👨🏻‍💻 I’m currently working on something cool;
-- 🚀 I’m currently learning Data Structures and Algorithms on [leetcode](https://leetcode.com/GKassym);
+- 👨🏻‍💻 I’m currently working on writing code for my robotics team;
+- 🚀 I’m currently learning how to work with tensorflow;
 - 💬 Ask me about anything, I am happy to help;
-- 📝 I regulary write articles on [medium](https://gapur-kassym.medium.com);
-- 📫 How to reach me: gapur.kassym@gmail.com;
-- 📝 [Resume](https://gkassym.netlify.app/Resume.pdf).
+- 📫 How to reach me: techguy763@gmail.com;
 
 </br>
 
