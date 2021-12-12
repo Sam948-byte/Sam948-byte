@@ -6,7 +6,7 @@
 
 I'm a young computer enthusiast interested in the full stack.
 
-
+---
 
 **About Me:**
 
@@ -17,6 +17,8 @@ I'm a young computer enthusiast interested in the full stack.
 
 </br>
 
+---
+
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
@@ -24,6 +26,7 @@ No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
+---
 
 📈 **My GitHub Stats:**
 
