@@ -13,7 +13,7 @@ I'm a young computer enthusiast interested in the full stack.
 - 👨🏻‍💻 I’m currently working on writing code for my robotics team;
 - 🚀 I’m currently learning how to work with tensorflow;
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: Discord #0995 The IT Guy;
+- 📫 How to reach me: Discord #0995 M1THRAND1R;
 
 </br>
 
