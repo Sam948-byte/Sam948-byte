@@ -4,14 +4,15 @@
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=Sam948-byte.Sam948-byte)
 
 
-I'm a young computer enthusiast interested in the full stack.
+I'm a high school student, pulling their hair out over FIRST Robotics
 
 ---
 
 **About Me:**
 
-- 👨🏻‍💻 I’m currently working on writing code for my robotics team;
-- 🚀 I’m currently learning how to work with tensorflow;
+- 👨🏻‍💻 I’m currently working on writing pathing code for autonomous;
+- 🚀 I’m currently learning how to work with limelight;
+- 💾 I don't know how daemons work, but I'm trying;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: Discord #0995 M1THRAND1R;
 
