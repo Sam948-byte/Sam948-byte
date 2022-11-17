@@ -1,14 +1,13 @@
 ### Hi there, I'm Sam <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 
-&nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=Sam948-byte.Sam948-byte)
-  <img src="https://komarev.com/ghpvc/?username=3kh0&label=Profile Visitors&color=001eff&style=flat" alt="3kh0" />
-  <img alt="" src="https://img.shields.io/badge/OS-Arch%20Linux-red/?logo=archlinux&color=1793d1">
-  <img alt="" src="https://img.shields.io/badge/Discord-3kh0__%231791-red/?logo=discord&color=7289DA">
-  <img alt="" src="https://img.shields.io/badge/Uses-Firefox-red/?logo=firefoxbrowser&color=ff9500">
+  &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=Sam948-byte.Sam948-byte)
+  <img alt="" src="https://img.shields.io/badge/OS-Debian%20Linux-red/?logo=debianlinux&color=1793d1">
+  <img alt="" src="https://img.shields.io/badge/Uses-Brave-Red/?logo=bravebrowser&color=ff9500">
   <img alt="" src="https://img.shields.io/badge/Listens%20to-Spotify-blue/?logo=spotify&logoColor=warning&color=1DB954">
   <img alt="" src="https://img.shields.io/badge/Editor-VS%20Code-blue/?logo=visualstudiocode&logoColor=blue&color=blue">
   <img src="https://img.shields.io/badge/Knows-JavaScript-blue/?logo=javascript&logoColor=warning&color=yellow" alt="js">
+  <img src="https://img.shields.io/badge/Knows-Java-blue/?logo=java&logoColor=warning&color=yellow" alt="java">
   <img src="https://img.shields.io/badge/Knows-HTML-blue/?logo=html5&logoColor=warning&color=orange" alt="html">
   <img src="https://img.shields.io/badge/Knows-MarkDown-FFF?logo=markdown" alt="markdown">
 
