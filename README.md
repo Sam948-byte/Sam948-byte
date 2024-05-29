@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/Knows-MarkDown-FFF?logo=markdown" alt="markdown">
 
 
-I'm a high school student, pulling their hair out over FIRST Robotics
+I'm a high school senior, getting ready to apply for colleges and looking for an internship
 
 ---
 
@@ -25,15 +25,6 @@ I'm a high school student, pulling their hair out over FIRST Robotics
 - How to reach me: Discord M1THRAND1R;
 
 </br>
-
----
-
-📊 **This Week I Spent My Time On:**
-<!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
-<!--END_SECTION:waka-->
 
 ---
 
