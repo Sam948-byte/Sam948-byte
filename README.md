@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/Knows-MarkDown-FFF?logo=markdown" alt="markdown">
 
 
-I'm a high school senior, getting ready to apply for colleges and looking for an internship
+I'm a high school senior, applying for colleges and looking for an internship
 
 ---
 
